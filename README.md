@@ -23,7 +23,7 @@
 - 🔭 I’m currently working on sprucing up my projects from bootcamp at Flatiron and finding a job! 
 - 🌱 I’m learning data structures and algorithms
 - 😄 Pronouns: they/them or he/him
-- ⚡ Fun fact: I recently drove to Philly to have lunch with one of my favorite writers, Samuel R. Delany! 
+- ⚡ Fun fact: I recently drove to Philly to have lunch with one of my favorite writers, [Samuel R. Delany](https://ibb.co/mcJ90dQ")! 
 <!--
 **alecmagnet/alecmagnet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
