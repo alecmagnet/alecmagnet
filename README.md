@@ -1,4 +1,4 @@
-### Hiya, I'm Alec! I'm an ancient wizard 🧙‍♂️ and full-stack software engineer 💻 based in New York 🌆 and looking for work 🔭 
+### Hiya, I'm Alec 🧲! I'm an ancient wizard 🧙‍♂️ and full-stack software engineer 💻 based in New York 🌆 and looking for work 🔭 
 
 #### Connect with me: 
 
