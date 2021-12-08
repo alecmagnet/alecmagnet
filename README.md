@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Alec. I'm a full-stack software engineer based in New York City. 
+### Hiya, I'm Alec! I'm an ancient wizard 🧙‍♂️ and full-stack software engineer 💻 based in New York City 🌆 and looking for work 🔭 
 
 #### Connect with me: 
 
@@ -22,9 +22,9 @@
 
 #### About me:
 
-- 🔭 I’m currently sprucing up my projects from bootcamp at Flatiron and looking for a job! 
+- 🔮 I’m currently sprucing up my projects from bootcamp at Flatiron and looking for a job! 
 - 🌱 I’m learning data structures and algorithms
-- 😄 Pronouns: they/them or he/him
+- 🏳️‍🌈 Pronouns: they/them or he/him
 - ⚡ Fun fact: I recently drove to Philly to have lunch with one of my favorite writers, [Samuel R. Delany](https://ibb.co/mcJ90dQ")! 
 <!--
 **alecmagnet/alecmagnet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
