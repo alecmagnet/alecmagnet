@@ -1,4 +1,4 @@
-### Hiya, I'm Alec 🧲! I'm an ancient wizard 🧙‍♂️ and full-stack software engineer 💻 based in New York 🌆 and looking for work 🔭 
+### Hiya, I'm Alec 🧲! I'm an ancient wizard 🧙‍♂️ and software engineer 💻 on the ChartIQ team 📈 at Cosaic. 
 
 #### Connect with me: 
 
@@ -22,8 +22,7 @@
 
 #### About me:
 
-- 🔮 I’m currently sprucing up my projects from bootcamp at Flatiron and looking for a job! 
-- 🌱 I’m learning data structures and algorithms
+- 🌆 Based in New York  
 - 🏳️‍🌈 Pronouns: they/them or he/him
 - ⚡ Fun fact: I recently drove to Philly to have lunch with one of my favorite writers, [Samuel R. Delany](https://ibb.co/mcJ90dQ")! 
 <!--
