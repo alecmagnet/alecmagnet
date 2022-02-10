@@ -1,4 +1,4 @@
-### Hiya, I'm Alec 🧲! I'm an ancient wizard 🧙‍♂️ and software engineer 💻 on the ChartIQ team 📈 at Cosaic. 
+### Hiya, I'm Alec 🧲! I'm a software engineer 💻 on the ChartIQ team 📈 at Cosaic. 
 
 #### Connect with me: 
 
@@ -22,6 +22,7 @@
 
 #### About me:
 
+- 🧙‍ Ancient wizard
 - 🌆 Based in New York  
 - 🏳️‍🌈 Pronouns: they/them or he/him
 - ⚡ Fun fact: I recently drove to Philly to have lunch with one of my favorite writers, [Samuel R. Delany](https://ibb.co/mcJ90dQ")! 
