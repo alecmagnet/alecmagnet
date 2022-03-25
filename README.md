@@ -1,4 +1,6 @@
-### Hiya, I'm Alec 🧲! I'm a software engineer 💻 on the ChartIQ team 📈 at Cosaic. 
+### Hi, I'm Alec 🧲
+
+I'm a software engineer on the ChartIQ team at Cosaic. 
 
 #### Connect with me: 
 
@@ -22,10 +24,11 @@
 
 #### About me:
 
-- 🧙‍ Ancient wizard
-- 🌆 Based in New York  
+- 🧙‍♂️ Ancient wizard
+- 📚 Former English professor
+- 🌆 New Yorker  
 - 🏳️‍🌈 Pronouns: they/them or he/him
-- ⚡ Fun fact: I recently drove to Philly to have lunch with one of my favorite writers, [Samuel R. Delany](https://ibb.co/mcJ90dQ")! 
+- ⚡ Fun fact: Last year, I drove to Philly to have lunch with one of my favorite sci-fi/fantasy writers, [Samuel R. Delany](https://ibb.co/mcJ90dQ")! 
 <!--
 **alecmagnet/alecmagnet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
