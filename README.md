@@ -1,12 +1,6 @@
 ### Hi, I'm Alec 🧲
 
-I'm a software engineer on the ChartIQ team at S&P Global. 
-
-#### Connect with me: 
-
-<a href="https://www.linkedin.com/in/alec-magnet/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Link to Alec Magnet's LinkedIn profile" height="30" width="40" /></a>
-<a href="https://medium.com/@alecmagnet" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Link to Alec Magnet's Medium page" height="30" width="40" /></a>
-</p>
+I'm a software engineer on the ChartIQ team at S&P Global.
 
 #### Languages and Tools:
 
